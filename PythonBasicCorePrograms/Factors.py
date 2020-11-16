@@ -1,3 +1,8 @@
+"""
+
+
+"""
+
 class Factor:
 
     # Definning constructor method
